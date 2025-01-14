@@ -5,4 +5,6 @@
 
 
 프로젝트 데모 영상입니다 👉
-[![Video Label](http://img.https://youtu.be/V0NlLTxGpFQ/0.jpg)](https://youtu.be/V0NlLTxGpFQ) Video Label
+
+https://github.com/user-attachments/assets/2bf806c7-abb0-4552-8282-76497976410d
+
