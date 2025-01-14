@@ -3,5 +3,6 @@
 
 ![image](https://github.com/user-attachments/assets/0dd42305-427f-4497-b857-5576f728c111)
 
+
 프로젝트 데모 영상입니다 👉
-https://youtu.be/V0NlLTxGpFQ
+[![Video Label](http://img.https://youtu.be/V0NlLTxGpFQ/0.jpg)](https://youtu.be/V0NlLTxGpFQ) Video Label
